@@ -1,0 +1,29 @@
+name: Scala CI
+
+on:
+  push:
+    branches: [ REDMI ]
+  pull_request:
+    branches: [ REDMI ]
+name: scala CD
+
+on:
+push_request:
+           branches: [ REDMI ]
+pull_request:
+branches: [ REDMI ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up JDK 11
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+    - name: Run tests
+      run: sbt test
