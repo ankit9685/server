@@ -12,6 +12,13 @@
 <TR>DISTRICT</TR>
 <TR>CITY</TR>
 </TABLE>
+<label for="state">select your state:</label>
+<select name="distrct" id="district">
+<option value ="gujrat">gujrat</option>
+<option value ="up">up</option>
+<option value ="hp">hp</option>
+<option value ="mp">mp</option>
+</select>
 </BODY>
 </HEAD>
 </HTML
