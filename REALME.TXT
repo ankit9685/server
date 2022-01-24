@@ -14,7 +14,4 @@
 </TABLE>
 </BODY>
 </HEAD>
-<footr>
-<p>lospam lospamlospam lospam lospam </p>
-</footer>
 </HTML
