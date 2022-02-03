@@ -1,0 +1,683 @@
+{
+            "betId": "256990891323",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.81,
+                "size": 0.16
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:30:21Z",
+            "matchedDate": "2022-01-28T07:30:26Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.16,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		ddd
+		
+		{
+            "betId": "256990895441",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.83,
+                "size": 0.3
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:30:29Z",
+            "matchedDate": "2022-01-28T07:30:40Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.3,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		{
+            "betId": "256990896658",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.84,
+                "size": 0.17
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:30:32Z",
+            "matchedDate": "2022-01-28T07:30:40Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.17,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		
+		{
+            "betId": "256990900709",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.24,
+                "size": 0.1
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:30:38Z",
+            "matchedDate": "2022-01-28T07:35:12Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.1,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		
+		
+		{
+            "betId": "256990900786",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.24,
+                "size": 0.12
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:30:38Z",
+            "matchedDate": "2022-01-28T07:35:12Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.12,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		
+		
+		
+		
+		
+		{
+            "betId": "256990901629",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.24,
+                "size": 0.4
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:30:40Z",
+            "matchedDate": "2022-01-28T07:35:12Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.4,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		
+		
+		
+		
+		{
+            "betId": "256990909609",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.16,
+                "size": 0.1
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:30:59Z",
+            "matchedDate": "2022-01-28T07:31:05Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.1,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		
+		
+		{
+            "betId": "256990919928",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.88,
+                "size": 0.2
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:31:21Z",
+            "matchedDate": "2022-01-28T07:31:28Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.2,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		 {
+            "betId": "256990920816",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.88,
+                "size": 0.1
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:31:24Z",
+            "matchedDate": "2022-01-28T07:31:48Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.1,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+		
+		
+		
+		
+		{
+            "betId": "256990920818",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.88,
+                "size": 1.0
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:31:24Z",
+            "matchedDate": "2022-01-28T07:31:48Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 1.0,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		{
+            "betId": "256990943863",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.1,
+                "size": 0.1
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:32:21Z",
+            "matchedDate": "2022-01-28T07:32:28Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.1,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		{
+            "betId": "256990962091",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.1,
+                "size": 0.2
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:33:11Z",
+            "matchedDate": "2022-01-28T07:33:23Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.2,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		{
+            "betId": "256990973604",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.12,
+                "size": 4.0
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:33:38Z",
+            "matchedDate": "2022-01-28T07:33:49Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 4.0,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256990991645",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "LAY",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.89,
+                "size": 1.0
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:34:23Z",
+            "matchedDate": "2022-01-28T07:34:42Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 1.0,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256990992176",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "LAY",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.89,
+                "size": 0.1
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:34:24Z",
+            "matchedDate": "2022-01-28T07:34:42Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.1,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256990993187",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.12,
+                "size": 0.4
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:34:27Z",
+            "matchedDate": "2022-01-28T07:34:43Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.4,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		
+		{
+            "betId": "256991006998",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.9,
+                "size": 0.4
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:34:56Z",
+            "matchedDate": "2022-01-28T07:35:04Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.4,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256991007823",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.9,
+                "size": 0.12
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:34:59Z",
+            "matchedDate": "2022-01-28T07:35:05Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.12,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		
+		{
+            "betId": "256991029095",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTABLE",
+            "PriceSize": {
+                "price": 1.63,
+                "size": 0.4
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:35:49Z",
+            "matchedDate": "0001-01-01T00:00:00",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.0,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256991040965",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.6,
+                "size": 0.2
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:10Z",
+            "matchedDate": "2022-01-28T07:36:15Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.2,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		
+		
+		{
+            "betId": "256991041966",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.6,
+                "size": 0.1
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:12Z",
+            "matchedDate": "2022-01-28T07:36:17Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.1,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256991048569",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "LAY",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.6,
+                "size": 0.1
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:27Z",
+            "matchedDate": "2022-01-28T07:36:39Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.1,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256991050062",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 2.66,
+                "size": 0.2
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:30Z",
+            "matchedDate": "2022-01-28T07:36:39Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.2,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		
+		{
+            "betId": "256991050341",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "LAY",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.6,
+                "size": 0.3
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:31Z",
+            "matchedDate": "2022-01-28T07:36:39Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.3,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256991053710",
+            "marketId": "1.193831952",
+            "selectionId": 27063302,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTION_COMPLETE",
+            "PriceSize": {
+                "price": 1.6,
+                "size": 0.2
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:36Z",
+            "matchedDate": "2022-01-28T07:37:08Z",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.2,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256991064749",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTABLE",
+            "PriceSize": {
+                "price": 2.72,
+                "size": 0.2
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:58Z",
+            "matchedDate": "0001-01-01T00:00:00",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.0,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
+		
+		
+		{
+            "betId": "256991065276",
+            "marketId": "1.193831952",
+            "selectionId": 27063297,
+            "handicap": false,
+            "side": "BACK",
+            "status": "EXECUTABLE",
+            "PriceSize": {
+                "price": 2.72,
+                "size": 0.6
+            },
+            "persistenceType": "LAPSE",
+            "orderType": "LIMIT",
+            "betOutcome": null,
+            "placedDate": "2022-01-28T07:36:59Z",
+            "matchedDate": "0001-01-01T00:00:00",
+            "settledDate": "0001-01-01T00:00:00",
+            "sizeSettled": 0.0,
+            "sizeMatched": 0.0,
+            "priceMatched": 0.0,
+            "profit": 0.0
+        },
+        
